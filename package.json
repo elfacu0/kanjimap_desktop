@@ -1,0 +1,53 @@
+{
+  "name": "thekanjimap",
+  "version": "1.0",
+  "description": "Desktop Version of TheKanjiMap",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "Kanji, Map, Graph, Decomposition, Japanese"
+  ],
+  "build": {
+    "appId": "thekanjimap",
+    "productName": "The Kanji Map",
+    "mac": {
+      "category": "public.app-category.education",
+      "target": "dmg",
+      "icon": "icon1024.icns"
+    },
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "favicon.ico"
+    },
+    "linux": {
+      "target": ["deb", "AppImage"]
+    },
+    "nsis": {
+      "installerIcon": "favicon.ico",
+      "uninstallerIcon": "favicon.ico",
+      "uninstallDisplayName": "thekanjimap",
+      "license": "resources/license_en.txt",
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "directories": {
+      "buildResources": "resources",
+      "output": "release"
+    }
+  },
+  "author": "Gabor Kovacs",
+  "license": "CC-BY-SA-3.0",
+  "devDependencies": {
+    "electron": "^9.2.1",
+    "electron-builder": "^22.8.0"
+  },
+  "dependencies": {
+    "node-gyp": "^7.0.0"
+  }
+}
