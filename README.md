@@ -2,7 +2,7 @@
 
 
 ### Installing
-By installing the app, you aggree to the [license](https://github.com/gabor-kovacs/kanjimap_desktop/blob/master/license_en.txt)
+By installing the app, you aggree to the [license](https://github.com/gabor-kovacs/kanjimap_desktop/blob/master/LICENSE.txt)
 
 Installers for the following platforms:
 
