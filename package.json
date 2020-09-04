@@ -26,7 +26,10 @@
       "icon": "favicon.ico"
     },
     "linux": {
-      "target": ["deb", "AppImage"]
+      "target": [
+        "deb"
+      ],
+      "icon": "icon1024.icns"
     },
     "nsis": {
       "installerIcon": "favicon.ico",
@@ -41,7 +44,7 @@
       "output": "release"
     }
   },
-  "author": "Gabor Kovacs",
+  "author": "Gabor Kovacs <thekanjimap@gmail.com>",
   "license": "CC-BY-SA-3.0",
   "devDependencies": {
     "electron": "^9.2.1",

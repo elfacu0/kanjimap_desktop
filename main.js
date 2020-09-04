@@ -18,6 +18,7 @@ function createWindow () {
     minWidth: 850,
     minHeight: 600,
     titleBarStyle: 'default',
+    // icon: path.join(__dirname, '/1024x1024.png'),
     webPreferences: {
       nodeIntegration: true,
       enableRemoteModule: true,
