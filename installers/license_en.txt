@@ -1,0 +1,24 @@
+Welcome to The Kanji Map ©2017-2020 by Gabor Kovacs
+Released under the Creative Commons Attribution-Share Alike 3.0 license.
+
+This app was created to give a visual map of the connections between kanjis and to help Japanese learners study more efficiently.
+The kanji decomposition is represented by a graph with detailed kanji and radical information.
+If you would like to help improving this app, make sure to support it.
+
+If you would like to report a bug, request features or just say thanks you can contact me at thekanjimap@gmail.com.
+
+Limitations and exclusions of liability: 
+I will have no liability for loss of data or software or anything that happens to the hardware this app is installed on.
+I cannot guarantee updates in case the app stops working in the future.
+
+Credits:
+
+Cytoscape.js: The Kanji Map was created by using cytoscape.js, licensed under the MIT license.
+
+KanjiVG: Stroke order animations were created by KanjiVG, copyright © 2009-2018 Ulrich Apel, released under the Creative Commons Attribution-Share Alike 3.0 license.
+
+JMdict and KANJIDIC2: The Kanji Map uses the JMdict and KANJIDIC dictionary files, property of the Electronic Dictionary Research and Development Group. This publication has included material from the JMdict (EDICT, etc.) dictionary files in accordance with the license provisions of the Electronic Dictionaries Research Group. See edrdg.org.
+
+CHISE-IDS database: The Kanji Map uses the Ideographic Description Sequence found in the CHISE project. The CHISE-IDS database is published under the GNU General Public License.
+				
+Dynatable: The Kanji Map uses Dynatable, that is open-source licensed under the Free Software Foundation's GNU Affero General Public License (AGPL).
