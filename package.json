@@ -38,7 +38,7 @@
       "allowToChangeInstallationDirectory": true
     },
     "directories": {
-      "buildResources": "resources",
+      "buildResources": "./",
       "output": "release"
     }
   },
