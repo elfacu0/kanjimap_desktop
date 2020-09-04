@@ -6,9 +6,9 @@ By installing the app, you aggree to the [license](https://github.com/gabor-kova
 
 Installers for the following platforms:
 
-* [Windows](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/The%20Kanji%20Map%20Setup%201.0.0.exe)
-* [MacOS](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/The%20Kanji%20Map-1.0.0.dmg)
-* [Linux](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/thekanjimap_1.0.0_amd64.deb)
+* [Windows](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/thekanjimap1.0.0.exe)
+* [MacOS](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/thekanjimap1.0.0.dmg)
+* [Linux](https://github.com/gabor-kovacs/kanjimap_desktop/raw/master/installers/thekanjimap1.0.0.deb)
 
 ## Built With
 
